@@ -31,3 +31,7 @@
 .achievements_text span {
     color: orange;
 }
+
+#contact iframe {
+    width: 100%;
+}
